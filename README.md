@@ -21,18 +21,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Acessibilidade em Locais Públicos: Um Direito de Todos
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+Este texto destaca a importância da acessibilidade em locais públicos, enfatizando como a falta de recursos adequados limita a independência e inclusão das pessoas com deficiência. Defende a criação de espaços inclusivos, abordando tanto aspectos físicos quanto sociais.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Vidnoz AI
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Utilizando o ChatGPT no auxílio de criação de textos e o Vidnoz IA na criação de vídeo com adição de avatar.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+(https://share.vidnoz.com/aivideo?id=6321696)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
